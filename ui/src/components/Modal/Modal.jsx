@@ -17,7 +17,7 @@ const Modal = ( { isVisible, closeModal, updatePassword}) => {
         <div className="wrapper">
             <div className="container-enter">
                 <div className="modal__block">
-                    <form className="modal__form-password" id="formPassword" action="#">
+                    <form className="modal__form-password" id="formPassword" action="ui/src/components/Modal/Modal#">
                         <div className="modal__logo">
                             <h2>Сменить пароль</h2>
                         </div>

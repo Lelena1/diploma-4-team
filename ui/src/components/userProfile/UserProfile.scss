@@ -96,7 +96,7 @@
   align-items: center;
   justify-content: center;
   background-color: #fff;
-  background-image: url(/src/images/draw_prpl.png);
+  background-image: url(/ui/src/images/draw_prpl.png);
   background-repeat: no-repeat;
   background-size: 15px 15px;
   background-position: center;
@@ -106,7 +106,7 @@
   cursor: pointer;
   &:hover {
     background-color: #6464b9;
-    background-image: url(/src/images/draw.png);
+    background-image: url(/ui/src/images/draw.png);
   }
   @media screen and (min-width: 600px) and (max-width: 700px) {
     top: 150px;
